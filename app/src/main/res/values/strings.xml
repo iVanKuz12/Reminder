@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintTheme">Тема</string>
+    <string name="hintText">Текст</string>
+    <string name="model" />
+    <string name="position" />
+    <string name="save">save</string>
+    <string name="del">delete</string>
+</resources>
